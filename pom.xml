@@ -5,7 +5,7 @@
 
 	<groupId>com.wipro.core</groupId>
 	<artifactId>bureau-credit-score</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>bureau-credit-score Maven Webapp</name>
@@ -15,7 +15,7 @@
 	<scm>
 		<developerConnection>
 			scm:git:git@github.com:Bhosle7075/bureau-credit-score.git</developerConnection>
-		<tag>V0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
